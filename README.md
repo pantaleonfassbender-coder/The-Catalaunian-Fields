@@ -20,7 +20,7 @@ A **Compare** page sets the sources side by side on nine questions (where the fi
 
 What is **not carried**, and why, is listed on the Texts page (`data/modules.json`, key `missing`): Mierow's English Jordanes (not yet public domain in Germany), the Greek of Priscus and the fragments Bury does not translate, and the press version of the "Hun speech", for which no scan of a newspaper of 1900 could be checked.
 
-The companion game, *Bellum atrox* (prototype 0): https://bellum-atrox.netlify.app/
+The companion game, *Bellum atrox* (prototype 0): https://bellum-atrox.netlify.app/, on itch.io: https://leofassb.itch.io/bellum-atrox
 
 ## Files
 

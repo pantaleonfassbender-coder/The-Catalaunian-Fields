@@ -72,7 +72,7 @@ function overview() {
     <div class="panel"><h3>How did it become 'the saving of the West'?</h3>
       <p>Through Gibbon and Creasy, Kaulbach's Battle of the Huns and Liszt's music, the Hungarian chronicles that made Attila an ancestor, and the "Huns" of 1900 and of 1914–1918. The last module follows the afterlife as its own subject.</p></div>
     <div class="panel"><h3>Can the story be played?</h3>
-      <p>The companion game <a href="https://bellum-atrox.netlify.app/" target="_blank" rel="noopener"><em>Bellum atrox</em></a> (prototype 0): as Aetius you hold together a coalition of former enemies, race to Orléans and decide what to do with Attila in his wagon fort; every card links back to its passage here.</p></div>
+      <p>The companion game <a href="https://bellum-atrox.netlify.app/" target="_blank" rel="noopener"><em>Bellum atrox</em></a> (prototype 0, also <a href="https://leofassb.itch.io/bellum-atrox" target="_blank" rel="noopener">on itch.io</a>): as Aetius you hold together a coalition of former enemies, race to Orléans and decide what to do with Attila in his wagon fort; every card links back to its passage here.</p></div>
   </div>`;
 }
 function plannedCard(m) {
