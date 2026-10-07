@@ -1,25 +1,71 @@
 {
  "lede": "From Attila's court to the murder of Aetius, then the long afterlife. The chronicles rarely give a day; where the sources disagree, the station says so. Links into the texts follow as the modules are carried.",
  "stations": [
-  {"d": "448–449", "side": "huns", "titel": "An embassy at Attila's court",
-   "text": "The historian Priscus travels with an East Roman embassy to Attila and describes the wooden court, the banquet and the king as judge. His account survives in fragments; Jordanes quotes him."},
-  {"d": "451, spring", "side": "huns", "titel": "Attila crosses the Rhine",
-   "text": "Prosper says Attila announced he was marching only against the Goths, 'as a guardian of Roman friendship', and that many cities of Gaul felt his attack once he had crossed the Rhine."},
-  {"d": "451, Easter eve", "side": "church", "titel": "Metz burned",
-   "text": "Gregory of Tours: the Huns reach Metz on the eve of Easter and burn it; only the oratory of Saint Stephen is left standing."},
-  {"d": "451, summer", "side": "church", "titel": "Orléans saved",
-   "text": "Gregory of Tours: bishop Anianus prays on the walls and watches for help, and Aetius and Theoderic arrive as the city is about to fall. The date is not given."},
-  {"d": "451", "side": "goths", "titel": "The battle",
-   "text": "On the Catalaunian fields, or at Mauriacus near Troyes, or not far from Metz, depending on the source. The Visigothic king Theoderic falls; Attila withdraws into his wagon fort and then leaves Gaul. No source gives the day."},
-  {"d": "452", "side": "church", "titel": "Italy and Pope Leo",
-   "text": "Attila sacks Aquileia and the cities of the Po; Pope Leo meets him, and he turns back. Prosper reports the embassy."},
-  {"d": "453", "side": "huns", "titel": "Attila's death",
-   "text": "After his wedding to Ildico, Attila dies of a haemorrhage in the night, Jordanes says after Priscus; his sons divide the empire and lose it."},
-  {"d": "454", "side": "rome", "titel": "Aetius murdered",
-   "text": "The emperor Valentinian III kills Aetius with his own hand in the palace; within a year Valentinian is killed in turn."},
-  {"d": "1851", "side": "reception", "titel": "A 'decisive battle'",
-   "text": "Edward Creasy puts Châlons among his Fifteen Decisive Battles of the World: the battle as the saving of the West."},
-  {"d": "1900", "side": "reception", "titel": "The 'Hun speech'",
-   "text": "At Bremerhaven Wilhelm II sends troops to China with words about the Huns under Attila that the official text leaves out; in 1914–1918 the Allies call the Germans 'Huns'."}
+  {
+   "d": "448–449",
+   "side": "huns",
+   "titel": "An embassy at Attila's court",
+   "text": "The historian Priscus travels with an East Roman embassy to Attila and describes the wooden court, the banquet and the king as judge. His account survives in fragments; Jordanes quotes him.",
+   "cite": "#/text/court/embassy/1",
+   "citeLabel": "Priscus [1]",
+   "plate": "feast"
+  },
+  {
+   "d": "451, spring",
+   "side": "huns",
+   "titel": "Attila crosses the Rhine",
+   "text": "Prosper says Attila announced he was marching only against the Goths, 'as a guardian of Roman friendship', and that many cities of Gaul felt his attack once he had crossed the Rhine.",
+   "cite": "#/text/court/causes/4",
+   "citeLabel": "Causes [4]"
+  },
+  {
+   "d": "451, Easter eve",
+   "side": "church",
+   "titel": "Metz burned",
+   "text": "Gregory of Tours: the Huns reach Metz on the eve of Easter and burn it; only the oratory of Saint Stephen is left standing."
+  },
+  {
+   "d": "451, summer",
+   "side": "church",
+   "titel": "Orléans saved",
+   "text": "Gregory of Tours: bishop Anianus prays on the walls and watches for help, and Aetius and Theoderic arrive as the city is about to fall. The date is not given."
+  },
+  {
+   "d": "451",
+   "side": "goths",
+   "titel": "The battle",
+   "text": "On the Catalaunian fields, or at Mauriacus near Troyes, or not far from Metz, depending on the source. The Visigothic king Theoderic falls; Attila withdraws into his wagon fort and then leaves Gaul. No source gives the day."
+  },
+  {
+   "d": "452",
+   "side": "church",
+   "titel": "Italy and Pope Leo",
+   "text": "Attila sacks Aquileia and the cities of the Po; Pope Leo meets him, and he turns back. Prosper reports the embassy.",
+   "plate": "leo"
+  },
+  {
+   "d": "453",
+   "side": "huns",
+   "titel": "Attila's death",
+   "text": "After his wedding to Ildico, Attila dies of a haemorrhage in the night, Jordanes says after Priscus; his sons divide the empire and lose it."
+  },
+  {
+   "d": "454",
+   "side": "rome",
+   "titel": "Aetius murdered",
+   "text": "The emperor Valentinian III kills Aetius with his own hand in the palace; within a year Valentinian is killed in turn."
+  },
+  {
+   "d": "1851",
+   "side": "reception",
+   "titel": "A 'decisive battle'",
+   "text": "Edward Creasy puts Châlons among his Fifteen Decisive Battles of the World: the battle as the saving of the West."
+  },
+  {
+   "d": "1900",
+   "side": "reception",
+   "titel": "The 'Hun speech'",
+   "text": "At Bremerhaven Wilhelm II sends troops to China with words about the Huns under Attila that the official text leaves out; in 1914–1918 the Allies call the Germans 'Huns'."
+  }
  ]
 }
