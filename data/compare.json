@@ -1,4 +1,183 @@
 {
  "lede": "The same moments of 451 in Jordanes, the chronicles of Prosper and Hydatius, the Gallic chronicles, Gregory of Tours and the saints' lives. Each column shows the English; the reader carries the originals.",
- "pairs": []
+ "pairs": [
+  {
+   "id": "field",
+   "titel": "Where was the field?",
+   "frage": "The Catalaunian fields, near Metz, at Troyes, or five miles from Troyes at Mauriacus?",
+   "note": "Jordanes joins two names the others keep apart and gives the field the size of a province. Hydatius, far away in Galicia, puts it 'not far from Metz'. The Gallic sources and Gregory name Mauriacus near Troyes; the Copenhagen continuation alone gives a distance. Modern proposals, from Châlons to Méry-sur-Seine and Moirey, start from these few lines.",
+   "voices": [
+    {
+     "text": "battle",
+     "sec": "field",
+     "n": [
+      1
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "chron",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "gaul",
+     "n": [
+      1,
+      2
+     ]
+    },
+    {
+     "text": "cities",
+     "sec": "orleans",
+     "n": [
+      2
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dead",
+   "titel": "How many fell?",
+   "frage": "165,000, about 300,000, 'inestimable', 'countless'.",
+   "note": "Jordanes counts 165,000 and 15,000 more; Hydatius 'about 300,000', copied by Isidore; Prosper, the nearest in time, gives no number at all, and the Gallic chronicle speaks of countless corpses. The figures say how the battle was remembered, not how many fought.",
+   "voices": [
+    {
+     "text": "battle",
+     "sec": "fort",
+     "n": [
+      4
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "chron",
+     "n": [
+      1,
+      4,
+      5
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "gaul",
+     "n": [
+      1
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theoderic",
+   "titel": "How did Theoderic die?",
+   "frage": "Trampled by his own men, speared by an Ostrogoth, or 'by whom, uncertain'?",
+   "note": "Jordanes gives two versions and does not choose; the Gallic chronicle of 511 says it is unknown; Isidore makes him die as victor. The Copenhagen continuation and Gregory say only that he died, and Gregory gives the victory to Aetius, Thorismund and the prayers of Anianus.",
+   "voices": [
+    {
+     "text": "battle",
+     "sec": "fight",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "chron",
+     "n": [
+      4,
+      5
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "gaul",
+     "n": [
+      1,
+      2,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "parting",
+   "titel": "Why did the allies part?",
+   "frage": "Reason of state, or the spoils?",
+   "note": "In Jordanes Aetius fears that the Goths will overwhelm the Empire once the Huns are gone. In the Copenhagen continuation and in Gregory he sends Thorismund and the Franks home with a plausible warning and keeps the booty. The same advice, three motives.",
+   "voices": [
+    {
+     "text": "battle",
+     "sec": "fort",
+     "n": [
+      3
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "gaul",
+     "n": [
+      2,
+      4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "victory",
+   "titel": "Who won?",
+   "frage": "Neither side gave way, the Goths' valour, slaughter on both sides, a lion in its den.",
+   "note": "Prosper defines victory by who went home; Cassiodorus, writing for a Gothic prince, gives it to the Goths; the Reichenau continuation and the Gallic chronicle of 452 record heavy losses on both sides. Jordanes' Attila, shut in his wagon fort, still frightens his victors.",
+   "voices": [
+    {
+     "text": "battle",
+     "sec": "chron",
+     "n": [
+      1,
+      2,
+      3
+     ]
+    },
+    {
+     "text": "battle",
+     "sec": "fight",
+     "n": [
+      6
+     ]
+    },
+    {
+     "text": "court",
+     "sec": "causes",
+     "n": [
+      5
+     ]
+    }
+   ]
+  },
+  {
+   "id": "orleans",
+   "titel": "Orléans: before or after the walls fell?",
+   "frage": "Fortified in time, relieved as the walls shook, or entered and then freed?",
+   "note": "In Jordanes Aetius and Theoderic fortify Orléans before Attila arrives, because its Alan king might betray it. Gregory has the relief arrive as the walls are about to fall; the Life of Anianus has the Huns already inside; Sidonius writes of a breaking-in but no plundering.",
+   "voices": [
+    {
+     "text": "alliance",
+     "sec": "sangiban",
+     "n": [
+      2
+     ]
+    },
+    {
+     "text": "cities",
+     "sec": "orleans",
+     "n": [
+      2,
+      5,
+      7
+     ]
+    }
+   ]
+  }
+ ]
 }

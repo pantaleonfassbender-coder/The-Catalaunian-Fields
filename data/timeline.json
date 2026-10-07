@@ -64,7 +64,18 @@
    "d": "451",
    "side": "goths",
    "titel": "The battle",
-   "text": "On the Catalaunian fields, or at Mauriacus near Troyes, or not far from Metz, depending on the source. The Visigothic king Theoderic falls; Attila withdraws into his wagon fort and then leaves Gaul. No source gives the day."
+   "text": "On the Catalaunian fields (Jordanes, Hydatius), 'not far from Metz' (Hydatius), or at Mauriacus five miles from Troyes (the Gallic sources). Theoderic falls; Attila withdraws into his wagon fort; Aetius advises Thorismud to go home, and Attila leaves Gaul. No source gives the day.",
+   "cite": "#/text/battle/field/1",
+   "citeLabel": "Field [1]",
+   "plate": "maerlant"
+  },
+  {
+   "d": "451",
+   "side": "goths",
+   "titel": "Thorismud king",
+   "text": "Raised on the battlefield, Thorismud returns to Toulouse. Jordanes says Aetius advised it for fear of the Goths; the Copenhagen continuation and Gregory say it was a trick to keep the spoils.",
+   "cite": "#/text/battle/fort/3",
+   "citeLabel": "Parting [3]"
   },
   {
    "d": "452",

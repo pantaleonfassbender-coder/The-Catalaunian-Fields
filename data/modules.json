@@ -23,15 +23,17 @@
    "kurz": "The cities and their bishops, 451",
    "zk": "Cities",
    "warum": "What the war meant city by city, as the churches remembered it. Gregory of Tours on Aravatius, told in Rome that the Huns could not be stopped, and on Metz burned on Easter eve; Orléans told three ways: by Gregory (relieved before the walls fell), by the Life of Anianus (the Huns already inside and drawing lots for the citizens), and by Sidonius, who promised a history of the siege and never wrote it and called Aetius 'the liberator of the Loire'; Lupus of Troyes taken by Attila to the Rhine; Genovefa nearly stoned by the Parisians as a false prophet. And beside the Lives, their editor Bruno Krusch's verdicts of 1896: late, dependent, 'invented from beginning to end'."
+  },
+  {
+   "id": "battle",
+   "datei": "battle",
+   "side": "goths",
+   "kurz": "The battle and the withdrawal, 451",
+   "zk": "Battle",
+   "warum": "Jordanes' account section by section in Mommsen's Latin with a new English translation: the field 'also called Mauriacan', the soothsayers, the lines and the fight for the hill, Attila's speech, 'bellum atrox multiplex immane pertinax', the brook of blood, Theoderic's death told two ways, the wagon fort and the pyre of saddles, Aetius' advice to Thorismud and 165,000 dead. Against it, every chronicle that mentions the battle: Prosper ('neither side gave way'), Cassiodorus, Hydatius ('not far from Metz', 300,000 dead), Isidore, the Gallic chronicle of 511 ('at Troyes, at the place Mauriacus'), the Copenhagen continuation ('at the fifth milestone from Troyes'), and Gregory of Tours with the vision in Saint Peter's and Aetius' trick."
   }
  ],
  "planned": [
-  {
-   "id": "battle",
-   "side": "goths",
-   "kurz": "4. The battle and the withdrawal",
-   "warum": "Jordanes' account section by section, and against it the chronicles: where the field was (near Metz, near Troyes, at Mauriacus), how many fell (165,000 or 300,000), how Theoderic died, and why Aetius let Attila go."
-  },
   {
    "id": "after",
    "side": "reception",

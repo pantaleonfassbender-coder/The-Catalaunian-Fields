@@ -165,9 +165,9 @@ async function compare([pid]) {
     const sec = t.sections.find(s => s.id === v.sec);
     const units = v.n.map(n => sec.units.find(u => u.n === n)).filter(Boolean);
     return `<div class="voice">
-      <div class="vhead">${side(m.side)} <b>${esc(t.autor)}</b><br><span class="fine">${esc(t.jahr)} · ${esc(sec.titel)}</span></div>
+      <div class="vhead">${side(m.side)} <b>${esc(sec.titel)}</b><br><span class="fine">${esc(t.titel)}</span></div>
       ${units.map(u => `<div class="vunit">
-        <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(u.titel)}` : ""}</div>
+        <div class="fine"><a href="#/text/${m.id}/${sec.id}/${u.n}">${esc(sec.zk)} [${u.n}]</a>${u.titel ? ` · ${esc(u.titel)}` : ""}${u.pg ? `<br>${esc(u.pg)}` : ""}</div>
         <div class="text">${esc(u.en)}</div></div>`).join("")}
     </div>`;
   };

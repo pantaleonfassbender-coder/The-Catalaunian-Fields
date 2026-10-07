@@ -1,0 +1,293 @@
+{
+ "titel": "The battle and the withdrawal, 451",
+ "autor": "Jordanes, Getica (about 551); the chronicles of Prosper, Hydatius, Cassiodorus and Isidore, the Gallic chronicle of 511 and two continuations of Prosper; Gregory of Tours",
+ "jahr": "451",
+ "orig_sprache": "la",
+ "pg_label": "",
+ "quelle": "Jordanes, Getica, ed. Th. Mommsen, MGH Auct. ant. V.1 (Berlin 1882), pp. 108–114 (archive.org cuaiordanisroman00jord); Prosper, Epitoma chronicon, the Additamenta ad Prosperum Hauniensia, the Continuatio codicis Reichenaviensis and the Chronica Gallica a. 511, ed. Th. Mommsen, MGH Auct. ant. IX (Berlin 1892), pp. 302, 481–482, 490, 663 (archive.org chronicaminorasa09momm); Hydatius, Cassiodorus' Chronica and Isidore's Historia Gothorum, ed. Th. Mommsen, MGH Auct. ant. XI (Berlin 1894), pp. 26, 157, 277–278 (archive.org chronicaminorasa11momm); Gregory of Tours, Historiae II.7, ed. W. Arndt, MGH SRM I.1 (Hanover 1884), pp. 69–71, English by O. M. Dalton (Oxford 1927), vol. II pp. 47–48. All public domain.",
+ "hinweis": "The Latin follows the printed editions, checked against the page images; Jordanes' text, from the Latin Library, was compared word by word with Mommsen's and keeps his readings. In the Copenhagen continuation, words in square brackets are Prosper's, as Mommsen marks them. Gregory is in Dalton's English (public domain); Jordanes and the chronicles are in the site's working translation, close to the Latin and dedicated to the public domain. Mierow's English Jordanes is not used (see 'Not carried').",
+ "sections": [
+  {
+   "id": "field",
+   "zk": "Field",
+   "titel": "The field and the omens",
+   "blurb": "Jordanes names the field and then stops to ask what could justify such a slaughter. Sangiban's suspected treason, which he tells next (Get. 194–195), is in module 2. Then Attila consults his soothsayers.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Get. 192 · Mommsen p. 108",
+     "titel": "The Catalaunian fields, 'also called Mauriacan'",
+     "orig": "Convenitur itaque in campos Catalaunicos, qui et Mauriaci nominantur, centum leuvas, ut Galli vocant, in longum tenentes et septuaginta in latum. Leuva autem Gallica una mille et quingentorum passuum quantitate metitur. Fit ergo area innumerabilium populorum pars illa terrarum. Conseruntur acies utraeque fortissimae; nihil subreptionibus agitur, sed aperto Marte certatur.",
+     "en": "So they came together on the Catalaunian fields, which are also called Mauriacan, a hundred leagues long, as the Gauls call them, and seventy wide. A Gallic league measures fifteen hundred paces. That stretch of earth became the arena of countless peoples. The two strongest battle lines engage; nothing is done by stealth, the fight is in open battle.",
+     "note": "A hundred by seventy leagues is some 220 by 155 kilometres: a region, roughly Champagne, not a battlefield. Jordanes alone joins the two names that the other sources keep apart: the Catalaunian fields (Hydatius, Cassiodorus, Isidore) and Mauriacus (the Gallic chronicles and Gregory). See the comparison 'Where was the field?'."
+    },
+    {
+     "n": 2,
+     "pg": "Get. 193 · Mommsen p. 108",
+     "titel": "'Mankind lives for kings'",
+     "orig": "Quae potest digna causa tantorum motibus invenire? Aut quod odium in se cunctos animavit armari? Probatum est humanum genus regibus vivere, quando unius mentis insano impetu strages sit facta populorum et arbitrio superbi regis momento defecit quod tot saeculis natura progenuit. XXXVII.",
+     "en": "What cause could be found worthy of the movement of so many? Or what hatred drove them all to take up arms against each other? It is proved that mankind lives for kings, when at the mad impulse of one mind a slaughter of nations is made, and at the will of a proud king what nature brought forth over so many ages perishes in a moment."
+    },
+    {
+     "n": 3,
+     "pg": "Get. 196 · Mommsen pp. 108–109",
+     "titel": "The soothsayers",
+     "orig": "Qui more solito nunc pecorum fibras, nunc quasdam venas in abrasis ossibus intuentes Hunnis infausta denuntiant; hoc tamen quantulum praedixere solacii, quod summus hostium ductor de parte adversa occumberet relictamque victoriam sua morte triumphum foedaret. Cumque Attila necem Aetii, quod eius motibus obviabat, vel cum sua perditione duceret expetendam, tali praesagio sollicitus, ut erat consiliorum in rebus bellicis exquisitor, circa nonam diei horam proelium sub trepidatione committit, ut, si secus cederet, nox imminens subveniret. XXXVIII.",
+     "en": "In their usual way they looked now at the entrails of cattle, now at certain veins in scraped bones, and announced ill fortune for the Huns; yet this little comfort they foretold, that the highest commander of the enemy on the other side would fall, and by his death would stain the victory that remained and the triumph. And since Attila held the death of Aetius, who stood in the way of his plans, worth seeking even at the cost of his own ruin, he was troubled by such an omen; and being a deviser of plans in matters of war, he joined battle in fear about the ninth hour of the day, so that if things went otherwise, the coming night would help him.",
+     "note": "The ninth hour is mid-afternoon. The 'highest commander' who falls will be Theoderic, not Aetius (Get. 209): Jordanes, writing from the Gothic side, makes the Gothic king's death the price of the victory."
+    }
+   ]
+  },
+  {
+   "id": "lines",
+   "zk": "Lines",
+   "titel": "The battle lines",
+   "blurb": "Who stood where. Jordanes is the only source for the order of battle, and his geometry of a hill with two slopes and two wings is not easy to draw.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Get. 197 · Mommsen p. 109",
+     "titel": "The hill",
+     "orig": "Convenere partes, ut diximus, in campos Catalaunicos. Erat autem positio loci declivi tumore in editum collis excrescens. Quem uterque cupiens exercitus obtinere, quia loci oportunitas non parvum benificium confert, dextram partem Hunni cum suis, sinistram Romani et Vesegothae cum auxiliariis occuparunt, relictoque de cacumine eius iugo certamen ineunt. Dextrum itaque cornum cum Vesegothis Theoderidus tenebat, sinistrum Aetius cum Romanis, conlocantes in medio Sanguibanum, quem superius rettulimus praefuisse Alanis, providentes cautioni militari, ut eum, de cuius animo minus praesumebant, fidelium turba concluderent. Facile namque adsumit pugnandi necessitatem, cui fugiendi inponitur difficultas.",
+     "en": "The parties met, as we have said, on the Catalaunian fields. The ground there rose in a slope to the height of a hill. Both armies wanted to hold it, since the advantage of a place confers no small benefit: the Huns with their men took the right side of it, the Romans and Visigoths with their auxiliaries the left, and leaving the ridge at its summit between them they joined battle. Theoderic with the Visigoths held the right wing, Aetius with the Romans the left; in the middle they placed Sangiban, who, as we said above, commanded the Alans, with military caution, so that a crowd of loyal men should enclose the man of whose mind they were less sure. For he readily takes on the necessity of fighting on whom the difficulty of fleeing is imposed.",
+     "note": "The sense of 'leaving the ridge at its summit' (relictoque de cacumine eius iugo) is uncertain. On Sangiban see module 2."
+    },
+    {
+     "n": 2,
+     "pg": "Get. 198 · Mommsen p. 109",
+     "titel": "Attila in the centre",
+     "orig": "E diverso vero fuit Hunnorum acies ordinata, ut in medio Attila cum suis fortissimis locaretur, sibi potius rex hac ordinatione prospiciens, quatenus inter gentis suae rubor positus ab imminenti periculo redderetur exceptus. Cornua vero eius multiplices populi et diversae nationes, quos dicioni suae subdiderat, ambiebant.",
+     "en": "On the other side the battle line of the Huns was so ordered that Attila was placed in the middle with his bravest men, the king in this arrangement providing rather for himself, so that, set amid the strength of his own people, he would be kept out of the danger that threatened. His wings were surrounded by the many peoples and various nations he had brought under his rule.",
+     "note": "Mommsen prints rubor with the best manuscripts; 'strength' translates robur, the reading of others, which the sense requires."
+    },
+    {
+     "n": 3,
+     "pg": "Get. 199–200 · Mommsen pp. 109–110",
+     "titel": "Goths against Goths",
+     "orig": "Inter quos Ostrogotharum praeminebat exercitus Valamire et Theodemire et Videmere germanis ductantibus, ipso etiam rege, cui tunc serviebant, nobilioribus, quia Amalorum generis eos potentia inlustrabat; eratque et Gepidarum agmini innumerabili rex ille famosissimus Ardaricus, qui ob nimiam suam fidelitatem erga Attila eius consiliis intererat. Nam perpendens Attila sagacitate sua, eum et Valamerem, Ostrogotharum regem, super ceteros regulos diligebat. Erat namque Valamir secreti tenax, blandus alloquio, dolis gnarus; Ardaricus fide et consilio, ut diximus, clarus. Quibus non inmerito contra parentes Vesegothas debuit credere pugnaturis. Reliqua autem, si dici fas est, turba regum diversarumque nationum ductores ac si satellites notibus Attilae attendebant, et ubi oculo annuisset, absque aliqua murmuratione cum timore et tremore unusquisque adstabat, aut certe, quod iussus fuerat, exequebatur.",
+     "en": "Among them the army of the Ostrogoths stood out, led by the brothers Valamir, Theodemir and Videmir, nobler even than the king whom they then served, for the power of the Amal family made them illustrious; and with the countless host of the Gepids was that most famous king Ardaric, who for his great loyalty to Attila took part in his counsels. For Attila, weighing them with his shrewdness, loved him and Valamir, king of the Ostrogoths, above the other petty kings. Valamir was close in keeping a secret, smooth in speech, skilled in wiles; Ardaric, as we have said, famous for loyalty and counsel. Attila had good reason to trust them to fight against the Visigoths, their kin. The rest of the crowd of kings, if one may say so, and the leaders of various nations waited on Attila's nods like guardsmen, and where he gave a sign with his eye, each stood by without a murmur, in fear and trembling, or carried out at once what he had been ordered.",
+     "note": "Theodemir was the father of Theoderic the Great, whose Amal house Cassiodorus and Jordanes served; their ancestors fought for Attila here, against the Visigoths. Ardaric's Gepids broke the Hunnic empire after Attila's death (module 5)."
+    },
+    {
+     "n": 4,
+     "pg": "Get. 201 · Mommsen p. 110",
+     "titel": "The fight for the height",
+     "orig": "Solus Attila rex omnium regum super omnes et pro omnibus sollicitus erat. Fit ergo de loci, quem diximus oportunitate certamen. Attila suos diriget, qui cacumen montis invaderent, sed a Thorismundo et Aetio praevenitur, qui eluctati collis excelsa ut conscenderent, superiores effecti sunt, venientesque Hunnos montis benificio facile turbaverunt. XXXIX.",
+     "en": "Attila alone, king of all the kings, was over all and anxious for all. So the battle began over the advantage of the place we have described. Attila directs his men to seize the summit of the hill, but he is forestalled by Thorismud and Aetius, who struggled up to climb the heights of the hill, got above, and with the help of the height easily threw the Huns into confusion as they came."
+    }
+   ]
+  },
+  {
+   "id": "speech",
+   "zk": "Speech",
+   "titel": "Attila's speech",
+   "blurb": "A set speech in the manner of ancient historians, written by Jordanes or by Cassiodorus before him. It is the only place where Attila speaks at length, and it is a Roman author's Attila.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Get. 202–204 · Mommsen p. 110",
+     "titel": "'A sign of fear'",
+     "orig": "Tunc Attila cum videret exercitum causa praecedente turbatum, tali eum ex tempore credidit alloquio confirmandum. 'Post victorias tantarum gentium, post orbem, si consistatis, edomitum, ineptum iudicaveram tamquam ignaros rei verbis acuere. Quaerat hoc aut novus ductor aut inexpertus exercitus. Nec mihi fas est aliquid vulgare dicere, nec vobis oportet audire. Quid autem aliud vos quam bellare consuetum? Aut quid viro forti suavius, quam vindicta manu querere? Magnum munus a natura animos ultione satiare. Adgrediamur igitur hostem alacres: audaciores sunt semper, qui inferunt bellum. Adunatas dispicite dissonas gentes: indicium pavoris est societate defendi. En ante impetum nostrum terroribus iam feruntur, excelsa quaerunt, tumulos capiunt et sera paenitudine in campos monitiones efflagitant. Nota vobis sunt quam sint levia Romanorum arma: primo etiam non dico vulnere, sed ipso pulvere gravantur, dum in ordine coeunt et acies testudineque conectunt.",
+     "en": "Then Attila, seeing his army thrown into confusion by what had happened, thought it should be steadied with an address on the spot: 'After victories over so many nations, after the world subdued, if you stand firm, I had judged it foolish to whet you with words as though you did not know the business. Let a new leader seek that, or an untried army. It is not right for me to say anything commonplace, nor for you to hear it. For what else are you used to but war? Or what is sweeter for a brave man than to seek revenge with his own hand? It is a great gift of nature to sate the soul with vengeance. Let us then attack the enemy eagerly: those who bring war are always the bolder. Despise these gathered nations that do not agree: it is a sign of fear to defend oneself by alliance. See, before our onset they are already carried off by terror: they seek the heights, they take the mounds, and with late repentance they cry out for fortifications in the plain. You know how light the arms of the Romans are: they are weighed down, I do not say by the first wound, but by the very dust, while they close up in order and link their lines and their shield-roofs.'",
+     "note": "'It is a sign of fear to defend oneself by alliance': the speech turns the coalition of module 2 into its weakness."
+    },
+    {
+     "n": 2,
+     "pg": "Get. 205–206 · Mommsen pp. 110–111",
+     "titel": "'This is the field'",
+     "orig": "Vos confligite perstantibus animis, ut soletis, despicientesque eorum aciem Alanos invadite, in Vesegothas incumbite. Inde nobis cita victoria quaerere, unde se continet bellum. Abscisa autem nervis mox membra relabuntur, nec potest stare corpus, cui ossa subtraxeris. Consurgant animi, furor solitus intumescat. Nunc consilia, Hunni, nunc arma depromite: aut vulneratus quis aduersarii mortem reposcat aut inlaesus hostium clade satietur. Victuros nulla tela conveniunt, morituros et in otio fata praecipitant. Postremo cur fortuna Hunnos tot gentium victores adseret, nisi ad certaminis huius gaudia praeparasset? Quis denique Meotidarum iter maiores nostros aperuit tot saeculis clausum secretum? Quis adhuc inermibus cedere faciebat armatos? Faciem Hunnorum non poterat ferre adunata collectio. Non fallor eventu: hic campus est, quem nobis tot prospera promiserunt. Primus in hoste tela coiciam. si quis potuerit Attila pugnante otio ferre, sepultus est'. His verbis accensi, in pugna cuncti praecipitantur.",
+     "en": "'Fight on with steadfast minds, as you are used to, and, despising their line, attack the Alans, fall on the Visigoths. We should seek quick victory where the war holds together. Once the sinews are cut, the limbs soon fall away, and a body cannot stand when you have taken out its bones. Let your spirits rise, let your usual fury swell. Now, Huns, bring out your counsel, now your arms: let the wounded man demand the death of his opponent, and the unhurt take his fill of the enemy's slaughter. No weapons reach those who are to live; those who are to die, fate hurls down even at rest. Lastly, why would fortune have made the Huns victors over so many nations, unless she had prepared them for the joys of this battle? Who opened to our ancestors the way across the Maeotic marsh, closed and secret for so many ages? Who made armed men give way to men still unarmed? A gathered multitude could not bear the face of the Huns. I am not deceived in the outcome: this is the field which so many successes have promised us. I shall be the first to hurl my weapons at the enemy. If anyone can stay at rest while Attila fights, he is a dead man.' Fired by these words, all rush into the fight.",
+     "note": "The way across the Maeotic marsh (the Sea of Azov) is the story of the hind that led Hunnic hunters across it, told by Jordanes in Get. 123–124."
+    }
+   ]
+  },
+  {
+   "id": "fight",
+   "zk": "Fight",
+   "titel": "The fight",
+   "blurb": "'Bellum atrox multiplex immane pertinax': the sentence that names the companion game. A brook running with blood, Theoderic's death told two ways, Attila in his wagon fort, Thorismud and Aetius lost in the dark.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Get. 207 · Mommsen p. 111",
+     "titel": "'Bellum atrox'",
+     "orig": "Et quamvis haberent res ipse formidinem, praesentia tamen regis cunctatione merentibus auferebat. Manu manibus congrediuntur; bellum atrox multiplex immane pertinax, cui simile nulla usquam narrat antiquitas, ubi talia gesta referantur, ut nihil esset, quod in vita sua conspicere potuisset egregius, qui huius miraculi privaretur aspectu.",
+     "en": "And although the situation itself held terror, the king's presence took hesitation away from the downcast. They come together hand to hand; a war savage, manifold, monstrous, stubborn, the like of which no antiquity anywhere tells, where such deeds are reported that a man who was denied the sight of this wonder could have seen nothing remarkable in all his life."
+    },
+    {
+     "n": 2,
+     "pg": "Get. 208 · Mommsen p. 111",
+     "titel": "The brook",
+     "orig": "Nam si senioribus credere fas est, rivulus memorati campi humili ripa praelabens, peremptorum vulneribus sanguine multo provectus est, non auctus imbribus, ut solebat, sed liquore concitatus insolito torrens factus est cruoris augmento. Et quos illic coegit in aridam sitim vulnus inflictum, fluenta mixta clade traxerunt: ita constricti sorte miserabili sorvebant putantes sanguinem quem fuderant sauciati.",
+     "en": "For if one may believe the elders, a brook of that field, flowing past between low banks, swelled with the much blood from the wounds of the slain; not increased by rains, as it used to be, but stirred by an unaccustomed liquid, it became a torrent through the increase of gore. And those whom the wounds they had received drove there in parching thirst drew in streams mixed with slaughter: so, constrained by a wretched lot, they drank, wounded men, the blood they had shed.",
+     "note": "'If one may believe the elders': Jordanes, a century later, cites oral tradition. The Latin putantes ('thinking') is hard to construe; 'drinking' (potantes) is the likely sense."
+    },
+    {
+     "n": 3,
+     "pg": "Get. 209 · Mommsen p. 111",
+     "titel": "Theoderic's death",
+     "orig": "Hic Theodoridus rex dum adhortans discurrit exercitum, equo depulsus pedibusque suorum conculcatus vitam maturae senectutis conclusit. Alii vero dicunt eum interfectum telo Andagis de parte Ostrogotharum, qui tunc Attilanis sequebantur regimen. Hoc fuit, quod Attilae praesagio aruspices prius dixerant, quamvis ille de Aetio suspicaret.",
+     "en": "Here King Theoderic, while he rode about encouraging his army, was thrown from his horse and trampled under the feet of his own men, and so ended a life of ripe old age. Others say that he was killed by a spear of Andagis, from the side of the Ostrogoths, who then followed Attila's rule. This was what the soothsayers had foretold to Attila, although he had thought of Aetius.",
+     "note": "Two versions side by side. Andagis was the father of Gunthigis Baza, the general whom Jordanes served as secretary (Get. 266): the man who may have killed the Visigothic king was the father of the author's own patron. The Gallic chronicle of 511 says that who killed him 'is uncertain'."
+    },
+    {
+     "n": 4,
+     "pg": "Get. 210 · Mommsen pp. 111–112",
+     "titel": "The wagon fort",
+     "orig": "Tunc Vesegothae dividentes se ab Alanis invadunt Hunnorum caterva et pene Attilam trucidarent, nisi providus prius fugisset et se suosque ilico intra septa castrorum, quam plaustris vallatum habebat, reclusisset; quamvis fragili munimine, eo tamen quaesierunt subsidium vitae, quibus paulo ante nullus poterat muralis agger obsistere.",
+     "en": "Then the Visigoths, separating from the Alans, fall upon the band of the Huns and would nearly have killed Attila, had he not prudently fled first and shut himself and his men at once within the enclosure of the camp, which he had fortified with wagons; a frail defence, yet there men sought protection for their lives whom a little before no earthen wall could withstand."
+    },
+    {
+     "n": 5,
+     "pg": "Get. 211 · Mommsen p. 112",
+     "titel": "Thorismud in the dark",
+     "orig": "Thorismud autem regis Theodoridi filius, qui cum Aetio collem anticipans hostes de superiore loco proturbaverat, credens se ad agmina propria pervenire, nocte caeca ad hostium carpenta ignarus incurrit. Quem fortiter demicante quidam capite vulnerato equo deiecit, suorumque providentia liberatus a proeliandi intentione desivit.",
+     "en": "Thorismud, son of King Theoderic, who with Aetius had seized the hill first and driven the enemy down from the higher ground, believing he was coming back to his own lines, ran unawares in the blind night into the enemy's wagons. As he fought bravely, someone wounded him in the head and threw him from his horse; rescued by the foresight of his men, he gave up his intention of fighting."
+    },
+    {
+     "n": 6,
+     "pg": "Get. 212 · Mommsen p. 112",
+     "titel": "The lion in its den",
+     "orig": "Aetius vero similiter noctis confusione divisus cum inter hostes medius vagaretur, trepidus, ne quid incidisset adversi, Gothos inquiret, tandemque ad socia castra perveniens, relicuum noctis scutorum defensione transegit. Postera die luce orta cum tumulatos cadaveribus campos aspicerent nec audere Hunnos erumpere, suam arbitrantes victoriam scientesque Attilam non nisi magna clade confossum bella confugere, cum tamen nil ageret vel prostratus abiectum, sed strepens armis, tubis canebat incursionemque minabatur, velut leo venabulis praessus speluncae aditus obambulans nec audet insurgere nec desinet fremetibus vicina terrere: sic bellicosissimus rex victores suos turbabat inclusus.",
+     "en": "Aetius likewise, separated in the confusion of the night, wandered in the midst of the enemy, anxious lest some misfortune had befallen the Goths, and searched for them; at last reaching the allied camp, he spent the rest of the night under the protection of shields. When day broke on the morrow and they saw the fields heaped with corpses and that the Huns did not dare to break out, they thought the victory theirs, knowing that Attila would not flee from battle unless struck by a great disaster. Yet he did nothing like a man laid low and cast down, but clashing his arms, he sounded the trumpets and threatened an attack: like a lion pressed by hunting spears, pacing the mouth of his den, who neither dares to spring out nor ceases to terrify the neighbourhood with his roaring, so the most warlike king, shut in, troubled his victors.",
+     "note": "Hydatius too says that night broke off the battle."
+    }
+   ]
+  },
+  {
+   "id": "fort",
+   "zk": "Parting",
+   "titel": "The siege of the camp and the parting",
+   "blurb": "The allies decide to starve Attila out, and then do not. Jordanes' explanation is Aetius' fear of the Goths; the casualty figure follows, and Thorismud's return to Toulouse.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Get. 213 · Mommsen p. 112",
+     "titel": "The pyre of saddles",
+     "orig": "Conveniunt itaque Gothi Romanique et quid agerent de superato Attila, deliberant. Placet eum obsidione fatigari, quia annonae copiam non habebat, quando ab ipsorum sagittariis intra septa castrorum locatis crebris ictibus arceretur accessus. Fertur autem desperatis rebus praedictum regem adhuc et suppraemo magnanimem equinis sellis construxisse pyram seseque, si adversarii inrumperent, flammis inicere voluisse, ne aut aliquis eius vulnere laetaretur aut in potestate hostium tantarum gentium dominus perveniret. XLI.",
+     "en": "So the Goths and the Romans meet and deliberate what to do with the overcome Attila. They decide to wear him out by siege, since he had no supply of food, while his own archers, posted within the enclosure of the camp, kept off any approach with their frequent shots. It is said that the king, still high-minded in this extremity, built a pyre of horses' saddles and meant to throw himself into the flames if the enemy broke in, so that no one might rejoice at his wounding and the lord of so many nations might not come into the power of his enemies.",
+     "note": "'It is said': again a report, not a statement."
+    },
+    {
+     "n": 2,
+     "pg": "Get. 214–215 · Mommsen pp. 112–113",
+     "titel": "The king found among the dead",
+     "orig": "Verum inter has obsidionum moras Vesegothae regem, fili patrem requirunt, admirantes eius absentiam, dum felicitas fuerit subsecuta. Cumque diutius exploratum, ut viris fortibus mos est, inter densissima cadavera repperissent, cantibus honoratum inimicis spectantibus abstulerunt. Videres Gothorum globos dissonis vocibus confragosos adhuc inter bella furentia funeri reddidisse culturam. Fundebantur lacrimae, sed quae viris fortibus inpendi solent. Nam mors erat, sed Hunno teste gloriosa, unde hostium putaretur inclinatam fore superbiam, quando tanti regis efferri cadaver cum suis insignibus conspiciebant. At Gothi Theodorito adhuc iusta solventes armis insonantibus regiam deferunt maiestatem fortissimusque Thorismud bene gloriosos manes carissimi patris, ut decebat filium, patris exequias prosecutus. Quod postquam peractum est, orbitatis dolore commotus et virtutis impetu, qua valebat, dum in reliquis Hunnorum mortem patris vindicare contendit, Aetium patricium ac si seniorem prudentiaeque maturum de hac parte consuluit, quid sibi esset in tempore faciendum.",
+     "en": "But during these delays of the siege the Visigoths look for their king, the sons for their father, wondering at his absence, since good fortune had followed. When after long search, as is the way of brave men, they found him among the thickest heaps of the dead, they honoured him with songs and carried him off under the eyes of the enemy. You might have seen bands of Goths, harsh with discordant voices, paying the dead his rites while the battle still raged. Tears were shed, but such as are given to brave men. For it was death, but glorious, with the Hun as witness, so that the enemy's pride might be thought humbled when they saw the body of so great a king carried out with its insignia. And the Goths, still paying the last rites to Theoderic, bear the royal majesty away with clashing arms, and the most valiant Thorismud, as befitted a son, followed his dearest father's glorious shade in the funeral. When this was done, moved by the grief of his loss and by the drive of the courage in which he was strong, he sought to avenge his father's death on the rest of the Huns, and consulted the patrician Aetius, as the elder and ripe in wisdom, on what he should do at this moment."
+    },
+    {
+     "n": 3,
+     "pg": "Get. 216 · Mommsen p. 113",
+     "titel": "Aetius' advice",
+     "orig": "Ille vero metuens, ne Hunnis funditus interemptis a Gothis Romanum praemeretur imperium, praebet hac suasione consilium, ut ad sedes proprias remearet regnumque, quod pater reliquerat, arriperet, ne germani eius opibus adsumptis paternis Vesegotharum regno pervaderent graviterque dehinc cum suis et, quod peius est, miseriterque pugnaret. Quod responsum non ambiguae, ut datum est, sed pro sua potius utilitate susceptum relictis Hunnis redit ad Gallias.",
+     "en": "Aetius, fearing that if the Huns were utterly destroyed the Roman empire would be overwhelmed by the Goths, gives this counsel: that he should return to his own seat and take the kingdom his father had left, lest his brothers seize their father's treasure and invade the kingdom of the Visigoths, and he should then have to fight hard against his own and, what is worse, wretchedly. This answer was received, not as ambiguous, which is how it was given, but rather as given for his own advantage; and leaving the Huns, he returned to Gaul.",
+     "note": "One of three explanations of the parting: Jordanes gives Aetius a political motive, the Copenhagen continuation and Gregory a motive of booty, and Gregory adds that the Frankish king was sent away by the same trick (see the comparison 'Why did the allies part?')."
+    },
+    {
+     "n": 4,
+     "pg": "Get. 217 · Mommsen p. 113",
+     "titel": "165,000 dead",
+     "orig": "Sic humana fragilitas dum suspicionibus occurrit. magna plerumque agenda rerum occasione intercepit. In hoc etenim famosissimo et fortissimarum gentium bello ab utrisque partibus clxv milia caesa referuntur, exceptis quindecim milibus Gepidarum et Francorum, qui ante congressionem publicam noctu sibi occurrentes mutuis concidere vulneribus, Francis pro Romanorum, Gepidas pro Hunnorum parte pugnantibus.",
+     "en": "So human frailty, while it runs to meet suspicions, often lets slip a great occasion for action. In this most famous war of the bravest nations, one hundred and sixty-five thousand are reported slain on both sides, not counting fifteen thousand Gepids and Franks, who, meeting each other by night before the general engagement, fell by mutual wounds, the Franks fighting on the Roman side, the Gepids on the side of the Huns.",
+     "note": "Hydatius and, after him, Isidore give about 300,000; Prosper speaks only of 'inestimable slaughter', the Gallic chronicle of 'countless corpses'. No figure can be checked, and all are far beyond what the armies of the 450s could field."
+    },
+    {
+     "n": 5,
+     "pg": "Get. 218 · Mommsen pp. 113–114",
+     "titel": "Thorismud at Toulouse",
+     "orig": "Attila igitur cognita discessione Gothorum, quod de inopinatis collegi solet, inimicorum magis aestimans dolum diutius se intra castra continuit. Sed ubi hostium absentia sunt longa silentia consecuta, erigitur mens ad victoriam, gaudia praesumuntur atque potentis regis animus in antiqua fata revertitur. Thorismud ergo, patre mortuo in campis statim Catalaunicis, ubi et pugnaverat, regia maiestate subvectus Tolosam ingreditur. Hic licet fratrum et fortium turba gauderet, ipse tamen sic sua initia moderatus est, ut nullius repperiret de regni sucessione certamen. XLII.",
+     "en": "So Attila, learning of the Goths' departure, thought it rather a trick of the enemy, as is usually concluded from the unexpected, and kept himself within the camp for a long time. But when long silences followed the enemy's absence, his mind rises to victory, joys are anticipated, and the mighty king's spirit returns to its old fortune. Thorismud, then, raised to royal majesty immediately on his father's death on the Catalaunian fields, where he had also fought, enters Toulouse. There, though the crowd of his brothers and strong men rejoiced, he so tempered his beginnings that he met no contest over the succession.",
+     "note": "Thorismud reigned only two years: Gregory and the Gallic sources say his brothers killed him in 453 (module 5)."
+    }
+   ]
+  },
+  {
+   "id": "chron",
+   "zk": "Chronicles",
+   "titel": "Chronicles in Italy and Spain",
+   "blurb": "The short notices. Prosper, in Rome, wrote within four years of the battle; Cassiodorus compiled his chronicle in 519 for a Gothic prince; Hydatius wrote at the far end of the West, in Galicia; Isidore of Seville copied Hydatius about 624. None of them agrees with Jordanes on everything.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Prosper 1364 · MGH AA IX pp. 481–482",
+     "titel": "'Neither side gave way'",
+     "orig": "in quo conflictu quamvis neutris cedentibus inaestimabiles strages commorientium factae sint, Chunos tamen eo constat victos fuisse, quod amissa proeliandi fiducia qui superfuerant ad propria reverterunt.",
+     "en": "In that conflict, although neither side gave way and inestimable slaughters of men dying together were made, it is agreed that the Huns were beaten in this: those who survived lost confidence in fighting and went back home.",
+     "note": "The end of Prosper's entry for 451, whose first two sentences are in modules 1 and 2. Prosper's chronicle was completed in 455: this is the nearest account in time. It names no place and no Theoderic, and defines victory by who went home."
+    },
+    {
+     "n": 2,
+     "pg": "Cassiodorus, Chronica 1253 · MGH AA XI p. 157",
+     "titel": "'By the valour of the Goths'",
+     "orig": "His conss. Romani Aetio duce Gothis auxiliaribus contra Attilam in campo Catalaunico pugnaverunt. qui virtute Gothorum superatus abscessit.",
+     "en": "In this consulship the Romans, under the leadership of Aetius, with the Goths as auxiliaries, fought against Attila on the Catalaunian field. He, overcome by the valour of the Goths, withdrew.",
+     "note": "Cassiodorus wrote his chronicle in 519 for Eutharic, the son-in-law of Theoderic the Great, and gives the victory to the Goths. His lost Gothic History was Jordanes' main source."
+    },
+    {
+     "n": 3,
+     "pg": "Contin. cod. Reichenav. c. 19 · MGH AA IX p. 490",
+     "titel": "'With slaughter on both sides'",
+     "orig": "Pugna facta in Galliis inter Aetium et Attilanum regem Hunorum cum utriusque populi caede. Attila fugatur in Gallias superiores.",
+     "en": "A battle was fought in Gaul between Aetius and Attila, king of the Huns, with slaughter of both peoples. Attila is put to flight into upper Gaul.",
+     "note": "A short continuation of Prosper in a Reichenau manuscript. 'Upper Gaul' is not explained."
+    },
+    {
+     "n": 4,
+     "pg": "Hydatius c. 150. 152. 153 · MGH AA XI p. 26",
+     "titel": "'Not far from Metz'",
+     "orig": "[150] gens Hunorum pace rupta depraedatur provincias Galliarum. plurimae civitates effractae: in campis Catalaunicis haud longe de civitate, quam effregerant, Mettis, Aetio duci et regi Theodori, quibus erat in pace societas, aperto Marte confligens divino caesa superatur auxilio: bellum nox intempesta diremit. rex illic Theodorus prostratus occubuit: CCC ferme milia hominum in eo certamine cecidisse memorantur. [152] Occiso Theodore Thurismo filius eius succedit in regno. [153] Huni cum rege suo Attila relictis Galliis post certamen Italiam petunt.",
+     "en": "[150] The people of the Huns, breaking the peace, plunders the provinces of Gaul. Very many cities were broken into. On the Catalaunian fields, not far from the city of Metz, which they had broken into, fighting in open battle against the general Aetius and King Theoderic, who were allied in peace, they are cut down and overcome with God's help. The dead of night broke off the battle. King Theoderic fell there, laid low. About 300,000 men are said to have fallen in that battle. [152] Theoderic being killed, his son Thurismo succeeds to the kingdom. [153] The Huns with their king Attila leave Gaul after the battle and head for Italy.",
+     "note": "Hydatius wrote in Galicia, in north-west Spain, in the 460s, and knew Gaul by report; Metz lies well over a hundred kilometres east of Châlons and Troyes. He files these entries under Valentinian's twenty-eighth year (452) and surrounds them with omens: an eclipse, a comet, a red sky in the north (c. 149, 151). Mommsen's brackets marking the manuscripts are left out here."
+    },
+    {
+     "n": 5,
+     "pg": "Isidore, Hist. Goth. 25 · MGH AA XI pp. 277–278",
+     "titel": "'Between the first battle and the last'",
+     "orig": "Pace deinde Theuderidus cum Romanis inita denuo adversus Hunos Galliarum provincias saeva depopulatione vastantes atque urbes plurimas evertentes in campis Catalaunicis auxiliante Aetio duce Romano aperto Marte conflixit ibique proeliando victor occubuit. Gothi autem dimicante Thurismundo Theuderedi regis filio adeo fortiter congressi sunt, ut inter primum proelium et postremum trecenta ferme milia hominum prostrarentur.",
+     "en": "Then Theoderic, having made peace with the Romans, again fought in open battle on the Catalaunian fields, with Aetius the Roman general helping, against the Huns, who were laying waste the provinces of Gaul with savage devastation and overthrowing very many cities; and there, fighting, he fell as victor. And the Goths, with Thurismund, son of King Theoderic, fighting, engaged so bravely that between the first battle and the last nearly three hundred thousand men were laid low.",
+     "note": "The longer recension of Isidore's History of the Goths, about 624; Mommsen marks the borrowing from Hydatius. The shorter recension says instead that Attila, beaten, 'was never seen again, for fear of the pursuing army'. 'Between the first battle and the last' suggests more than one engagement."
+    }
+   ]
+  },
+  {
+   "id": "gaul",
+   "zk": "Gaul",
+   "titel": "Gaul remembers",
+   "blurb": "The sources written in Gaul place the battle near Troyes, at a place called Mauriacus, five miles out; they name a dead kinsman of Attila; and they tell of a trick by which Aetius kept the spoils. Gregory of Tours adds a vision in Rome.",
+   "units": [
+    {
+     "n": 1,
+     "pg": "Chron. Gall. a. 511 c. 615 · MGH AA IX p. 663",
+     "titel": "'By whom killed, uncertain'",
+     "orig": "Aetius patricius cum Theoderico rege Gothorum contra Attilam regem Hugnorum Tricassis pugnat loco Mauriacos, ubi Theodericus a quo occisus incertum est et Laudaricus cognatus Attilae: cadavera vero innumera.",
+     "en": "The patrician Aetius with Theoderic, king of the Goths, fights against Attila, king of the Huns, at Troyes, at the place Mauriacus, where Theoderic was killed, by whom is uncertain, and Laudaric, Attila's kinsman; and the corpses were countless.",
+     "note": "A Gallic chronicle running to 511. Laudaric appears nowhere else."
+    },
+    {
+     "n": 2,
+     "pg": "Add. ad Prosp. Haun. · MGH AA IX p. 302",
+     "titel": "'At the fifth milestone from Troyes'",
+     "orig": "sicque [raptim congregatis undique bellatoribus viris adversae multitudini] nostrae partis [non impar occurreret] pugnatumque est in quinto miliario de Trecas loco nuncupato Maurica in Campania. [in quo conflictu ... Chunos constat eo victos fuisse, quod ... ad propria reverterunt.] mortuusque est in eo proelio Theodor rex Gothorum, in cuius locum Thorismotus filius eius maior natu sufficitur. sicque astu Aetii actum, ut, dum Francos hortatur ad propria remeare, ne vacuam virorum robore sedem Attila occuparet Thorismotumque hortatur, ut sumpti honoris gloriam in sedibus regni remeans firmaret, ne a fratribus praeventus dignitate careret, solus cum suorum robore militum remanens cuncta praeda et hostium spoliis proprium ditat exercitum.",
+     "en": "And so [gathering fighting men in haste from every side, he met the opposing multitude] on our side [on equal terms], and the battle was fought at the fifth milestone from Troyes, at a place called Maurica, in Champagne. [In that conflict ... it is agreed that the Huns were beaten in this, that ... they went back home.] And Theodor, king of the Goths, died in that battle; in his place Thorismot, his elder son, was put. And so it was done by Aetius' cunning that, urging the Franks to return home lest Attila occupy their seat while it was empty of its strength of men, and urging Thorismot to return to the seat of his kingdom and make firm the glory of the honour he had received, lest he be forestalled by his brothers and lose the dignity, he alone, remaining with the strength of his own soldiers, enriched his own army with all the booty and the spoils of the enemy.",
+     "note": "The Copenhagen continuation of Prosper (module 2); words in square brackets are Prosper's, as Mommsen marks them. The fifth Roman milestone is about seven and a half kilometres. The most precise place-name in any source, and the plainest statement of the trick."
+    },
+    {
+     "n": 3,
+     "pg": "Greg. Hist. II.7 · MGH SRM I pp. 69–70",
+     "titel": "Aetius' wife and the drunkard in Saint Peter's",
+     "orig": "His diebus Romam sonus adiit, Aetium in maximo discrimine inter falangas hostium laborare. Quo auditu uxor eius anxia atque maesta, assidua basilicas sanctorum apostolorum adibat atque, ut virum suum de hac via reciperet sospitem, praecabatur. Quae cum die noctuque haec agerit, quadam nocte homo pauperculus, crapulatus a vino, in angulo basilicae beati Petri apostoli obdormivit. Clausis autem ex more usteis a custodibus, non est nanctus. De nocte vero consurgens, relucentibus per tota aedis spatia lychinis, pavore territus, aditum, per quem foris evaderit, quaerit. Verum ubi primi atque alterius ustei claustra pulsat et obserata cuncta cognoscit, solo decubuit, trepidus praestolans locum, ut, convenientibus ad matutinis hymnis populis, hic liber abscederit. Interea vidit duas personas se invicem venerabiliter salutantes sollicitusque de suis esse prosperitatibus. Tunc qui erat senior ita exorsus est: 'Uxoris Aeti lacrimas diucius sustenire non patior. Petit enim assiduae, ut virum suum de Galliis reducam incolomem, cum aliud exinde fuisset apud divinum iuditium praefinitum, sed tamen obtenui inmensam pietatem pro vita illius. Et ecce nunc illum propero viventem exinde reducturus! Verumtamen obtestor, ut qui haec audierit sileat arcanumque Dei vulgare non audeat, ne pereat velociter a terra'. Ille autem haec audiens, silire non potuit; sed mox inluciscente caelo omnia quae audierat matri familiae pandit, expletisque sermonibus, lumen caruit oculorum.",
+     "en": "In these days a rumour reached Rome that Aëtius was hard pressed and in grievous danger among the hordes of the enemy. At these tidings his wife in her sadness and anxiety frequented without ceasing the churches of the holy apostles, and prayed that she might receive back her lord safe from this campaign. She continued in prayer night and day, and one night a poor man who was drunken fell asleep in a corner of the church of the blessed apostle Peter. The doors were shut as usual, but he was not discovered by the guardians. During the night he got up, to find a brilliance of lamps flashing light through the whole building, and searched in terror for the entry, that he might find a way out. He tried the bolts, first of one door and then of another, but found them all fast; so he lay down on the ground anxiously watching the door, that he might escape as soon as the people assembled for the morning hymns. But now he perceived two persons who saluted each other with reverence, and asked each other how they did. The elder thus began: 'I may no longer endure the tears of the wife of Aëtius. She prayeth without ceasing that I may bring back her husband safe and sound from Gaul, when the divine judgement hath otherwise determined. Nevertheless I have obtained this immeasurable grace for his life. And behold I hasten thither now to bring him thence alive. But I adjure him who hath heard these things to hold his peace, nor dare to divulge the secret, or forthwith he shall perish from the earth.' Nevertheless the man could not be silent, but as soon as light appeared in the heaven, he revealed all that he had heard to the wife of Aëtius; and as soon as he had spoken, the light of his eyes failed.",
+     "note": "English: Dalton (1927), his II.6 (7). The two persons are Peter and Paul, the elder Peter. Fredegar repeats the story, as Dalton notes. Compare Aetius commending himself to Saint Peter in the Oviedo continuation (module 2)."
+    },
+    {
+     "n": 4,
+     "pg": "Greg. Hist. II.7 · MGH SRM I pp. 70–71",
+     "titel": "The battle and the trick",
+     "orig": "Igitur Aetius cum Gothis Francisque coniunctus adversus Attilanem confligit. At ille ad internitionem vastari suum cernens exercitum, fuga delabitur. Theodor vero Gothorum rex huic certamine subcubuit. Nam nullus ambigat, Chunorum exercitum obtentu memorati antestites fuisse fugatum. Verum Aetius patritius cum Thorismodo victuriam obtinuit hostesque delivit. Expletoque bello, ait Aetius Thorismodo: 'Festina velociter redire in patriam, ne insistente germano a patris regno priveris'. Haec ille audiens, cum velocitate discessit, quasi antecipaturus fratrem et prior patris cathedram adepturus. Simili et Francorum regem dolo fugavit. Illis autem recedentibus, Aetius, spoliato campo, victor in patriam cum grande est reversus spolia. Attila vero cum paucis reversus est.",
+     "en": "Now Aëtius, in alliance with the Goths and Franks, fought with Attila, who seeing his army being worn down even to destruction, left the field in flight. Theodoric, king of the Goths, succumbed in this battle. No man may doubt that the army of the Huns was routed by the intercession of the bishop whom I have named. But the patrician Aëtius won the victory with Thorismund, and utterly destroyed the enemy. And when the war was ended, Aëtius said to Thorismund: 'Make haste to return with all speed to thy country, lest by the action of thy brother thou be despoiled of thy father's kingdom.' At these words Thorismund departed in haste to forestall his brother and take first possession of his father's throne. With like craft he sent off the king of the Franks. And as soon as they were gone he collected the spoil from the field and returned home with great booty. But Attila retired with a small number of men.",
+     "note": "English: Dalton (1927). Arndt's text has 'Theodor', as in the Copenhagen continuation. For Gregory the victory belongs to Anianus' prayers (module 3) as much as to Aetius; the Frankish king is not named. The rest of the chapter, on Aquileia and Thorismund's death, belongs to module 5."
+    }
+   ]
+  }
+ ]
+}

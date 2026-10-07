@@ -52,13 +52,26 @@ PLATES = [
     ("meaux", "Meaux Vitrail 1869 4 Ste Geneviève et Attila.jpg",
      "Genovefa before Attila", "church",
      "Stained glass, cathedral of Meaux (1869): Genovefa kneels before a crowned Attila on horseback. The meeting is the window's: in the Life of Genovefa she never sees him, and her quarrel is with the citizens of Paris."),
+    ("neuville", "De Neuville - The Huns at the Battle of Chalons.jpg",
+     "The Huns at Châlons", "huns",
+     "Engraving after Alphonse de Neuville, from Guizot's illustrated history of France (1870s): the Huns as the nineteenth century imagined them, half-naked horsemen in a storm of battle. Nothing in the sources describes the battle like this."),
+    ("maerlant", "Battle of the Catalaunian plains.jpg",
+     "The battle in a Dutch chronicle", "reception",
+     "Miniature from Jacob van Maerlant's Spieghel Historiael (about 1325–1335), National Library of the Netherlands: the battle of Attila, Aetius, Merovech and Theoderic as a clash of fourteenth-century knights. Merovech, the Frankish king named here, appears in none of the sources of the fifth and sixth centuries."),
 ]
 
 
 def api(params):
     q = urllib.parse.urlencode({**params, "format": "json"})
     req = urllib.request.Request("https://commons.wikimedia.org/w/api.php?" + q, headers=UA)
-    return json.load(urllib.request.urlopen(req))
+    for wait in (0, 20, 60, 120):
+        time.sleep(wait)
+        try:
+            return json.load(urllib.request.urlopen(req))
+        except urllib.error.HTTPError as e:
+            if e.code != 429:
+                raise
+    raise RuntimeError("Commons API still rate-limited")
 
 
 def main():
