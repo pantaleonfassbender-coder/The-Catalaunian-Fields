@@ -1,0 +1,47 @@
+{
+ "credit": "Plates: public-domain or CC0 images from Wikimedia Commons, each named in its caption with the original; the licence was checked on the file page. Resized for this site.",
+ "plates": [
+  {
+   "id": "hunnenschlacht",
+   "titel": "The Battle of the Huns",
+   "side": "reception",
+   "caption": "Steel engraving by J. L. Raab (1869) after Wilhelm von Kaulbach's Hunnenschlacht: the dead of a battle against Attila fight on in the air, after a story told by the philosopher Damascius. Kaulbach's picture (1834–37) and Liszt's symphonic poem made the battle a scene of nineteenth-century art.",
+   "source": "Wikimedia Commons, File:Die Hunnenschlacht Raab nach Wilhelm von Kaulbach.jpg (https://commons.wikimedia.org/wiki/File:Die_Hunnenschlacht_Raab_nach_Wilhelm_von_Kaulbach.jpg)"
+  },
+  {
+   "id": "map450",
+   "titel": "The Roman and Hunnic empires about 450",
+   "side": "rome",
+   "caption": "William R. Shepherd, Historical Atlas (1911). A modern map of the empires on the eve of Attila's march into Gaul.",
+   "source": "Wikimedia Commons, File:C. 450 Roman and Hun Empires.jpg (https://commons.wikimedia.org/wiki/File:C._450_Roman_and_Hun_Empires.jpg)"
+  },
+  {
+   "id": "gaul450",
+   "titel": "Gaul about 450",
+   "side": "rome",
+   "caption": "William R. Shepherd, Historical Atlas (1911): the Germanic kingdoms in Gaul, among them the Visigoths of Toulouse and the Burgundians, whose warriors fought in 451.",
+   "source": "Wikimedia Commons, File:C. 450 Germanic invasions of Gaul.jpg (https://commons.wikimedia.org/wiki/File:C._450_Germanic_invasions_of_Gaul.jpg)"
+  },
+  {
+   "id": "thuroczy",
+   "titel": "King Attila's battle on the Catalaunian plain",
+   "side": "reception",
+   "caption": "Woodcut from the Chronicle of János Thuróczy (Augsburg 1488), where Attila is the first king of the Hungarians: the battle as Hungarian history told it.",
+   "source": "Wikimedia Commons, File:Thuróczy krónika - Attila király csatája a catalaunumi síkon.jpg (https://commons.wikimedia.org/wiki/File:Thur%C3%B3czy_kr%C3%B3nika_-_Attila_kir%C3%A1ly_csat%C3%A1ja_a_catalaunumi_s%C3%ADkon.jpg)"
+  },
+  {
+   "id": "leo",
+   "titel": "Leo the Great and Attila",
+   "side": "church",
+   "caption": "Raphael, fresco in the Stanza di Eliodoro, Vatican (1514). Pope Leo meets Attila on the Mincio in 452; Peter and Paul appear in the sky with swords. The meeting is in Prosper's chronicle; the apostles are Raphael's.",
+   "source": "Wikimedia Commons, File:Raphael - The Meeting of Leo the Great and Attila.jpg (https://commons.wikimedia.org/wiki/File:Raphael_-_The_Meeting_of_Leo_the_Great_and_Attila.jpg)"
+  },
+  {
+   "id": "lupus",
+   "titel": "Saint Lupus stops Attila before Troyes",
+   "side": "church",
+   "caption": "Colour lithograph by E. Crété after H. Grobet (1902). The Life of Lupus, which the editor Bruno Krusch judged a late invention, made the bishop of Troyes the man who faced Attila.",
+   "source": "Wikimedia Commons, File:H. Grobet - Saint Loup arrête Attila devant Troyes (451).jpg (https://commons.wikimedia.org/wiki/File:H._Grobet_-_Saint_Loup_arr%C3%AAte_Attila_devant_Troyes_(451).jpg)"
+  }
+ ]
+}

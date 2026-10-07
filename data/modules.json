@@ -1,0 +1,23 @@
+{
+ "shipped": [],
+ "planned": [
+  {"id": "court", "side": "huns", "kurz": "1. Attila's court and the road to Gaul, 440–450",
+   "warum": "Priscus' embassy to Attila in 448–449 (Bury 1923, Hodgkin 1892) and Jordanes on Attila, Bleda and the sword of Mars; three reasons for war in the sources that do not exclude each other: Geiseric's gifts, Honoria's ring, and Attila's claim to march only against the Goths."},
+  {"id": "alliance", "side": "rome", "kurz": "2. The alliance, 451",
+   "warum": "Valentinian's embassy to Theoderic and the list of allies in Jordanes; Sangiban the Alan, suspected of treason; Avitus winning the Visigoths in Sidonius' panegyric; the chronicles of Prosper and Hydatius on a coalition of old enemies."},
+  {"id": "cities", "side": "church", "kurz": "3. The cities and their bishops",
+   "warum": "Metz burned on Easter eve, Orléans saved at the last moment (Gregory of Tours), Anianus, Lupus of Troyes and Genovefa of Paris; and the editor Bruno Krusch's verdicts on the saints' lives, which belong on the page beside them."},
+  {"id": "battle", "side": "goths", "kurz": "4. The battle and the withdrawal",
+   "warum": "Jordanes' account section by section, and against it the chronicles: where the field was (near Metz, near Troyes, at Mauriacus), how many fell (165,000 or 300,000), how Theoderic died, and why Aetius let Attila go."},
+  {"id": "after", "side": "reception", "kurz": "5. Afterwards and afterlife, 452–1918",
+   "warum": "Italy and Pope Leo in 452, Attila's death in 453, Aetius murdered in 454; then how an undecided battle became 'the saving of the West': Gibbon, Creasy, Kaulbach's Battle of the Huns, the Hungarian chronicles, the Kaiser's 'Hun speech' of 1900 and the 'Huns' of 1914–1918."}
+ ],
+ "missing": [
+  {"id": "mierow", "side": "goths", "kurz": "Mierow's English Jordanes (1908/1915)",
+   "warum": "The usual English Jordanes is not used: Charles C. Mierow died in 1961, and his translation is not yet public domain in Germany. Jordanes is translated here from Mommsen's Latin, with Hodgkin's free English extract of 1892 where it serves.",
+   "quelle": "Mierow, The Gothic History of Jordanes (Princeton 1915)"},
+  {"id": "priscusde", "side": "huns", "kurz": "The rest of Priscus in English",
+   "warum": "Bury (1923) and Hodgkin (1892) translate most of the embassy; the shorter fragments on Honoria and on Attila's death are translated here from the Greek of Müller and Dindorf.",
+   "quelle": "Müller, Fragmenta Historicorum Graecorum IV (1851); Dindorf, Historici Graeci Minores I (1870)"}
+ ]
+}
