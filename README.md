@@ -1,5 +1,7 @@
 # The Catalaunian Fields, 451
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23218775.svg)](https://doi.org/10.5281/zenodo.23218775)
+
 A documentary apparatus for Attila's invasion of Gaul in 451, the battle on the Catalaunian fields, and its afterlife from 452 to 1918: public-domain sources with the Latin beside the English, comparisons setting the sources side by side, a timeline linked into the texts, and plates.
 
 Its subject is the disagreement of the sources: where the field was (the Catalaunian fields, "not far from Metz", or Mauriacus five miles from Troyes), how many fell, how King Theoderic died, why Aetius let Attila go, whether Orléans was saved before or after the Huns broke in, and how an undecided battle became "the saving of the West".
@@ -45,6 +47,6 @@ Any static server, e.g. `python -m http.server 8950`.
 
 ## Citation
 
-Fassbender, Pantaleon. *The Catalaunian Fields, 451: A Documentary Apparatus.* 2026. The DOI follows with the first Zenodo release. Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
+Fassbender, Pantaleon. *The Catalaunian Fields, 451: A Documentary Apparatus.* 2026. https://doi.org/10.5281/zenodo.23218775 (all versions; version 1.0.0: https://doi.org/10.5281/zenodo.23218776). Please also cite the printed source of any passage you quote. Metadata: `CITATION.cff`, `.zenodo.json`.
 
 Code: MIT. Editions and working translations: CC0. Editorial matter: CC BY 4.0. See `LICENSES.md`.
