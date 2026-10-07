@@ -2,6 +2,15 @@
  "lede": "From Attila's court to the murder of Aetius, then the long afterlife. The chronicles rarely give a day; where the sources disagree, the station says so. Links into the texts follow as the modules are carried.",
  "stations": [
   {
+   "d": "439",
+   "side": "goths",
+   "titel": "Litorius taken at Toulouse",
+   "text": "Aetius' general Litorius leads Hunnic auxiliaries against the Visigoths and is taken before Toulouse; Avitus renews the treaty with Theoderic. Twelve years later the same peoples are allies against the Huns.",
+   "cite": "#/text/alliance/enemies/3",
+   "citeLabel": "Old enemies [3]",
+   "plate": "aetius"
+  },
+  {
    "d": "448–449",
    "side": "huns",
    "titel": "An embassy at Attila's court",
@@ -17,6 +26,14 @@
    "text": "Prosper says Attila announced he was marching only against the Goths, 'as a guardian of Roman friendship', and that many cities of Gaul felt his attack once he had crossed the Rhine.",
    "cite": "#/text/court/causes/4",
    "citeLabel": "Causes [4]"
+  },
+  {
+   "d": "451, spring",
+   "side": "rome",
+   "titel": "The coalition",
+   "text": "Valentinian's embassy to Theoderic; Avitus brings the Goths; Aetius gathers Franks, Burgundians, Alans, Saxons, Armoricans and others. Sangiban the Alan is suspected of treason.",
+   "cite": "#/text/alliance/coalition/2",
+   "citeLabel": "Coalition [2]"
   },
   {
    "d": "451, Easter eve",

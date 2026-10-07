@@ -7,15 +7,17 @@
    "kurz": "Attila's court and the road to Gaul, 440–450",
    "zk": "Court",
    "warum": "Priscus' embassy to Attila in 448–449 in Bury's English: the wooden palace, a Greek who preferred the Huns and Priscus' answer, Attila judging at his door, the banquet and the wooden cup. Jordanes' portrait in Latin with a working translation: the murdered brother Bleda, 'a man born into the world to shake the nations', the sword of Mars. And three reasons for the war of 451 that do not exclude each other: Gaiseric's gifts, a war 'only against the Goths' (Jordanes and Prosper), and Honoria, the emperor's sister, claimed as a wife (the Gallic chronicle of 452)."
+  },
+  {
+   "id": "alliance",
+   "datei": "alliance",
+   "side": "rome",
+   "kurz": "The alliance, 451",
+   "zk": "Alliance",
+   "warum": "How a coalition of old enemies came together. The wars of the 430s, when Aetius' general Litorius led Hunnic horsemen against the Goths and was taken at Toulouse (Jordanes, and Sidonius' panegyric on Avitus); Valentinian's embassy to Theoderic and the answer 'you have made Attila our enemy too'; the list of allies in Jordanes, copied from Prosper; a continuation of Prosper on the Franks 'who had no kings'; Sidonius' catalogue of Attila's peoples and Aetius begging Avitus to bring the Goths; Aetius commending himself to Saint Peter; and Sangiban the Alan, suspected of treason and watched in the middle of the line."
   }
  ],
  "planned": [
-  {
-   "id": "alliance",
-   "side": "rome",
-   "kurz": "2. The alliance, 451",
-   "warum": "Valentinian's embassy to Theoderic and the list of allies in Jordanes; Sangiban the Alan, suspected of treason; Avitus winning the Visigoths in Sidonius' panegyric; the chronicles of Prosper and Hydatius on a coalition of old enemies."
-  },
   {
    "id": "cities",
    "side": "church",
