@@ -1,0 +1,41 @@
+{
+  "upload_type": "dataset",
+  "title": "The Catalaunian Fields, 451: A Documentary Apparatus. Attila in Gaul, the chronicles, the saints, and a battle no one can place",
+  "creators": [
+    {
+      "name": "Fassbender, Pantaleon",
+      "orcid": "0000-0002-6683-3617"
+    }
+  ],
+  "description": "<p>A documentary apparatus for Attila's invasion of Gaul in 451, the battle on the Catalaunian fields, and its afterlife from 452 to 1918. Its subject is the disagreement of the sources: where the field was (the Catalaunian fields, 'not far from Metz', or Mauriacus five miles from Troyes), how many fell, how King Theoderic died, why Aetius let Attila go, whether Orl&eacute;ans was saved before or after the Huns broke in, and how an undecided battle became 'the saving of the West'.</p><p>Stage 1: five modules with 121 passages, each read against the page image of a public-domain printing, the Latin beside the English. (1) Attila's court and the road to Gaul: Priscus' embassy of 448&ndash;449 in Bury's English (1923), Jordanes' portrait of Attila, and three causes of the war. (2) The alliance: Jordanes, Prosper and the Copenhagen continuation, and Sidonius' panegyric on Avitus. (3) The cities and their bishops: Gregory of Tours on Metz and Orl&eacute;ans (Arndt 1884, Dalton's English 1927), the Lives of Anianus, Lupus and Genovefa (Krusch 1896) beside their editor's verdicts, and Sidonius' letters. (4) The battle and the withdrawal: Jordanes, Getica 192&ndash;218, in a new English translation, against Prosper, Cassiodorus, Hydatius, Isidore, the Gallic chronicle of 511, the Copenhagen and Reichenau continuations and Gregory. (5) Afterwards and afterlife: Italy and Pope Leo in 452, Thorismud's death, Attila's death (Jordanes after Priscus, and Marcellinus' 'woman's knife'), the Nedao, the murder of Aetius in 454, and the reception in Gibbon (1788), Creasy (1851), the Kaiser's Bremerhaven speech of 1900 in its official text, and Kipling (1914).</p><p>The Latin follows the Monumenta Germaniae Historica (Mommsen's Jordanes and Chronica minora, Arndt's Gregory, Krusch's saints' lives, Luetjohann's Sidonius). Where no public-domain English exists the translation is the site's own, close to the original. With nine comparisons setting the sources side by side, a timeline linked into the texts, fourteen public-domain plates, and a list of what is not carried and why (Mierow's English Jordanes, the Greek of Priscus, the press version of the 'Hun speech').</p><p>Companion game: <em>Bellum atrox</em> (in preparation, https://bellum-atrox.netlify.app/).</p><p>Licensing: code MIT; editorial matter CC BY 4.0; editions and working translations CC0 1.0; plates public domain or CC0 &mdash; see LICENSES.md. Live site: https://the-catalaunian-fields.netlify.app/</p>",
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "Attila",
+    "Huns",
+    "Catalaunian Fields",
+    "Battle of Châlons",
+    "Aetius",
+    "Visigoths",
+    "Jordanes",
+    "Priscus",
+    "Gregory of Tours",
+    "late antique chronicles",
+    "hagiography",
+    "reception history",
+    "Late Antiquity",
+    "digital humanities"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://the-catalaunian-fields.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "https://bellum-atrox.netlify.app/",
+      "relation": "isSupplementedBy",
+      "resource_type": "other"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "The Catalaunian Fields, 451: A Documentary Apparatus"
+message: "If you use this apparatus, please cite it as below, and cite the printed source for any passage you quote."
+type: software
+authors:
+  - family-names: Fassbender
+    given-names: Pantaleon
+    orcid: "https://orcid.org/0000-0002-6683-3617"
+repository-code: "https://github.com/pantaleonfassbender-coder/The-Catalaunian-Fields"
+url: "https://the-catalaunian-fields.netlify.app/"
+abstract: >-
+  A documentary apparatus for Attila's invasion of Gaul in 451, the battle on
+  the Catalaunian fields and its afterlife to 1918, built on the disagreement
+  of the sources: five modules with 121 passages, each read against the page
+  image of a public-domain printing, the Latin beside the English. Priscus in
+  Bury's English (1923); Jordanes' Getica in Mommsen's Latin with a new English
+  translation; the chronicles of Prosper, Hydatius, Cassiodorus, Marcellinus,
+  Isidore, the Gallic chronicles and the continuations of Prosper (MGH Chronica
+  minora); Gregory of Tours (Arndt 1884, Dalton 1927); the Lives of Anianus,
+  Lupus and Genovefa with their editor Krusch's verdicts (1896); Sidonius'
+  panegyric and letters; and the reception in Gibbon (1788), Creasy (1851),
+  Wilhelm II's Bremerhaven speech (1900) and Kipling (1914). With nine
+  comparisons, a timeline, fourteen public-domain plates, and a list of what
+  is not carried and why. Companion game: Bellum atrox.
+keywords:
+  - Attila
+  - Huns
+  - Catalaunian Fields
+  - Battle of Châlons
+  - Aetius
+  - Jordanes
+  - Priscus
+  - Gregory of Tours
+  - Late Antiquity
+  - digital humanities
+license: MIT
+version: 1.0.0
+date-released: 2026-10-07

@@ -1,3 +1,6 @@
-tools/src/
+tools/src/*
+!tools/src/jordanes_ll.json
+!tools/src/jord5.json
+!tools/src/bury_paras.json
 __pycache__/
 .netlify/

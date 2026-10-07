@@ -47,14 +47,14 @@
    "id": "mierow",
    "side": "goths",
    "kurz": "Mierow's English Jordanes (1908/1915)",
-   "warum": "The usual English Jordanes is not used: Charles C. Mierow died in 1961, and his translation is not yet public domain in Germany. Jordanes is translated here from Mommsen's Latin, with Hodgkin's free English extract of 1892 where it serves.",
+   "warum": "The usual English Jordanes is not used: Charles C. Mierow died in 1961, and his translation is not yet public domain in Germany. Jordanes is translated here from Mommsen's Latin.",
    "quelle": "Mierow, The Gothic History of Jordanes (Princeton 1915)"
   },
   {
    "id": "priscusde",
    "side": "huns",
-   "kurz": "The rest of Priscus in English",
-   "warum": "Bury (1923) and Hodgkin (1892) translate most of the embassy; the shorter fragments on Honoria and on Attila's death are translated here from the Greek of Müller and Dindorf.",
+   "kurz": "The Greek of Priscus, and the fragments Bury does not translate",
+   "warum": "Priscus is given in Bury's English (1923), whole paragraphs of the embassy. The Greek text, and the shorter fragments Bury leaves out (on Honoria's ring, on the embassy of 449–450, on Attila's death), are not yet carried; for Honoria and for the death, Jordanes' versions stand in (modules 1 and 5). Hodgkin's English of 1892 (Italy and her Invaders II, pp. 54–97) covers more of the fragments and is the next candidate.",
    "quelle": "Müller, Fragmenta Historicorum Graecorum IV (1851); Dindorf, Historici Graeci Minores I (1870)"
   },
   {
