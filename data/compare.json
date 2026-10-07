@@ -178,6 +178,87 @@
      ]
     }
    ]
+  },
+  {
+   "id": "leo",
+   "titel": "Why did Attila leave Italy?",
+   "frage": "The Pope, the Huns' fear of Alaric's fate, famine and disease, or an army from the East?",
+   "note": "Jordanes gives two reasons, Alaric's example (after Priscus) and Leo's embassy; Prosper, close to Leo, makes the Pope's presence decisive and blames Aetius for leaving the Alps open; Hydatius, far away, does not mention Leo at all; Cassiodorus has Leo sent by the emperor.",
+   "voices": [
+    {
+     "text": "after",
+     "sec": "italy",
+     "n": [
+      3,
+      4
+     ]
+    },
+    {
+     "text": "after",
+     "sec": "italy",
+     "n": [
+      5,
+      6,
+      7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "death",
+   "titel": "How did Attila die?",
+   "frage": "A nosebleed on his wedding night, or a woman's knife?",
+   "note": "Jordanes, following Priscus, insists on a death 'without any wound', and the funeral song denies treachery. Marcellinus, a century later in Constantinople, says a woman stabbed him and gives the haemorrhage as the other opinion; the Gallic chronicle of 511 says only that he 'is killed'. Prosper and Cassiodorus say he died at home.",
+   "voices": [
+    {
+     "text": "after",
+     "sec": "death",
+     "n": [
+      1,
+      3
+     ]
+    },
+    {
+     "text": "after",
+     "sec": "death",
+     "n": [
+      5,
+      6,
+      7
+     ]
+    },
+    {
+     "text": "after",
+     "sec": "thorismud",
+     "n": [
+      6
+     ]
+    }
+   ]
+  },
+  {
+   "id": "west",
+   "titel": "When did the West fall?",
+   "frage": "With Aetius in 454, with the 'last victory' of 451, or never, because the Germans saved it?",
+   "note": "Marcellinus, writing under Justinian, says the Western realm fell with Aetius and has not risen since. Gibbon calls 451 'the last victory … in the name of the Western empire'; Creasy turns it into the victory that saved 'the Germanic element' of Europe. Sidonius in 456 counts Rome's twelve centuries running out.",
+   "voices": [
+    {
+     "text": "after",
+     "sec": "aetius",
+     "n": [
+      3,
+      5
+     ]
+    },
+    {
+     "text": "after",
+     "sec": "afterlife",
+     "n": [
+      2,
+      4
+     ]
+    }
+   ]
   }
  ]
 }

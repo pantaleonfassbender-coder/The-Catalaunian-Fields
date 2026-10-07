@@ -31,16 +31,17 @@
    "kurz": "The battle and the withdrawal, 451",
    "zk": "Battle",
    "warum": "Jordanes' account section by section in Mommsen's Latin with a new English translation: the field 'also called Mauriacan', the soothsayers, the lines and the fight for the hill, Attila's speech, 'bellum atrox multiplex immane pertinax', the brook of blood, Theoderic's death told two ways, the wagon fort and the pyre of saddles, Aetius' advice to Thorismud and 165,000 dead. Against it, every chronicle that mentions the battle: Prosper ('neither side gave way'), Cassiodorus, Hydatius ('not far from Metz', 300,000 dead), Isidore, the Gallic chronicle of 511 ('at Troyes, at the place Mauriacus'), the Copenhagen continuation ('at the fifth milestone from Troyes'), and Gregory of Tours with the vision in Saint Peter's and Aetius' trick."
-  }
- ],
- "planned": [
+  },
   {
    "id": "after",
+   "datei": "after",
    "side": "reception",
-   "kurz": "5. Afterwards and afterlife, 452–1918",
-   "warum": "Italy and Pope Leo in 452, Attila's death in 453, Aetius murdered in 454; then how an undecided battle became 'the saving of the West': Gibbon, Creasy, Kaulbach's Battle of the Huns, the Hungarian chronicles, the Kaiser's 'Hun speech' of 1900 and the 'Huns' of 1914–1918."
+   "kurz": "Afterwards and afterlife, 452–1918",
+   "zk": "After",
+   "warum": "Italy in 452: Aquileia and the storks, Pope Leo on the Mincio (Jordanes; Prosper, who blames Aetius; Hydatius, who credits famine and an army from the East). Jordanes' second war in Gaul and Thorismud killed by his brothers. Attila's death after Priscus: Ildico, the funeral song, the three coffins; and Marcellinus: 'stabbed by the hand and knife of a woman'. The Nedao. Aetius murdered by the emperor in 454: 'with him fell the Western realm'. Then the afterlife: Gibbon's 'last victory … in the name of the Western empire', Creasy's 'Germanic element', the Kaiser at Bremerhaven in 1900 and Kipling's 'The Hun is at the gate!' (1914)."
   }
  ],
+ "planned": [],
  "missing": [
   {
    "id": "mierow",
@@ -55,6 +56,13 @@
    "kurz": "The rest of Priscus in English",
    "warum": "Bury (1923) and Hodgkin (1892) translate most of the embassy; the shorter fragments on Honoria and on Attila's death are translated here from the Greek of Müller and Dindorf.",
    "quelle": "Müller, Fragmenta Historicorum Graecorum IV (1851); Dindorf, Historici Graeci Minores I (1870)"
+  },
+  {
+   "id": "hunpress",
+   "side": "reception",
+   "kurz": "The press version of the 'Hun speech' (1900)",
+   "warum": "The version of the Kaiser's Bremerhaven speech that compares the troops to 'the Huns under their king Etzel' was printed in the press on 28 July 1900 and gave the speech its name. It is not in the official text, which module 5 carries. It will be added when a scan of a newspaper of 1900 can be checked; modern document collections print it.",
+   "quelle": "German newspapers of 28 July 1900 (e.g. Weser-Zeitung); German History in Documents and Images (GHI Washington)"
   }
  ]
 }

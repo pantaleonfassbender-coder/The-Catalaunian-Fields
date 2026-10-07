@@ -58,6 +58,12 @@ PLATES = [
     ("maerlant", "Battle of the Catalaunian plains.jpg",
      "The battle in a Dutch chronicle", "reception",
      "Miniature from Jacob van Maerlant's Spieghel Historiael (about 1325–1335), National Library of the Netherlands: the battle of Attila, Aetius, Merovech and Theoderic as a clash of fourteenth-century knights. Merovech, the Frankish king named here, appears in none of the sources of the fifth and sixth centuries."),
+    ("paczka", "Paczka Ferenc - Attila halála - 1884.jpg",
+     "Attila's death", "huns",
+     "Ferenc Paczka, Attila halála (Attila's death), 1884: Ildico stands over the dead king. In Jordanes she weeps 'with downcast face under her veil'; the salon painter unveils her, and the murder legend hangs in the air."),
+    ("delacroix", "Eugene Ferdinand Victor Delacroix Attila fragment.jpg",
+     "Attila tramples Italy and the Arts", "reception",
+     "Eugène Delacroix, detail of his Attila for the library of the Palais Bourbon, Paris (1843–1847): Attila, followed by his barbarian hordes, tramples Italy and the Arts. The nineteenth century's Attila as the enemy of civilization."),
 ]
 
 

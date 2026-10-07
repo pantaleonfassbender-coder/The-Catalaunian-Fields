@@ -1,5 +1,5 @@
 {
- "lede": "From Attila's court to the murder of Aetius, then the long afterlife. The chronicles rarely give a day; where the sources disagree, the station says so. Links into the texts follow as the modules are carried.",
+ "lede": "From Attila's court to the murder of Aetius, then the long afterlife. The chronicles rarely give a day; where the sources disagree, the station says so. Each linked station opens its passage.",
  "stations": [
   {
    "d": "439",
@@ -81,32 +81,68 @@
    "d": "452",
    "side": "church",
    "titel": "Italy and Pope Leo",
-   "text": "Attila sacks Aquileia and the cities of the Po; Pope Leo meets him, and he turns back. Prosper reports the embassy.",
-   "plate": "leo"
+   "text": "Attila takes Aquileia (Jordanes' storks), Milan and Pavia; Pope Leo meets him on the Mincio, and he turns back. Prosper blames Aetius for leaving the Alps open; Hydatius credits famine, disease and an army from the East.",
+   "plate": "leo",
+   "cite": "#/text/after/italy/4",
+   "citeLabel": "Italy [4]"
   },
   {
    "d": "453",
    "side": "huns",
    "titel": "Attila's death",
-   "text": "After his wedding to Ildico, Attila dies of a haemorrhage in the night, Jordanes says after Priscus; his sons divide the empire and lose it."
+   "text": "After his wedding to Ildico, Attila dies of a haemorrhage in the night, Jordanes says after Priscus; Marcellinus says a woman stabbed him. His sons divide the peoples and lose them.",
+   "cite": "#/text/after/death/1",
+   "citeLabel": "Death [1]",
+   "plate": "paczka"
+  },
+  {
+   "d": "454",
+   "side": "huns",
+   "titel": "The Nedao",
+   "text": "Ardaric the Gepid leads the subject peoples against Attila's sons; Ellac falls, and 'the Huns gave way, to whom the whole world was thought to give way'.",
+   "cite": "#/text/after/nedao/2",
+   "citeLabel": "Nedao [2]"
   },
   {
    "d": "454",
    "side": "rome",
    "titel": "Aetius murdered",
-   "text": "The emperor Valentinian III kills Aetius with his own hand in the palace; within a year Valentinian is killed in turn."
+   "text": "Valentinian III kills Aetius with his own hand in the palace in 454; in 455 Aetius' guardsmen kill Valentinian. Marcellinus: 'with him fell the Western realm'.",
+   "cite": "#/text/after/aetius/3",
+   "citeLabel": "Aetius [3]"
+  },
+  {
+   "d": "1788",
+   "side": "reception",
+   "titel": "Gibbon",
+   "text": "Chapter 35 of the Decline and Fall: 'the last victory which was achieved in the name of the Western empire', decided by 'the blind impetuosity of Barbarians'.",
+   "cite": "#/text/after/afterlife/2",
+   "citeLabel": "Afterlife [2]",
+   "plate": "delacroix"
   },
   {
    "d": "1851",
    "side": "reception",
    "titel": "A 'decisive battle'",
-   "text": "Edward Creasy puts Châlons among his Fifteen Decisive Battles of the World: the battle as the saving of the West."
+   "text": "Edward Creasy puts Châlons among his Fifteen Decisive Battles of the World: Gibbon's 'last victory' becomes the saving of 'the Germanic element in the civilization of modern Europe'.",
+   "cite": "#/text/after/afterlife/4",
+   "citeLabel": "Afterlife [4]"
   },
   {
    "d": "1900",
    "side": "reception",
    "titel": "The 'Hun speech'",
-   "text": "At Bremerhaven Wilhelm II sends troops to China with words about the Huns under Attila that the official text leaves out; in 1914–1918 the Allies call the Germans 'Huns'."
+   "text": "At Bremerhaven Wilhelm II sends troops to China: 'Pardon wird nicht gegeben'. The press version compares them to the Huns under Etzel; the official text leaves the Huns out. In 1914 the British call the Germans 'Huns'.",
+   "cite": "#/text/after/afterlife/6",
+   "citeLabel": "Afterlife [6]"
+  },
+  {
+   "d": "1914",
+   "side": "reception",
+   "titel": "'The Hun is at the gate!'",
+   "text": "Kipling's poem in The Times, a month into the war: Attila's name, by way of the Kaiser's speech, becomes the name for Germans.",
+   "cite": "#/text/after/afterlife/7",
+   "citeLabel": "Afterlife [7]"
   }
  ]
 }

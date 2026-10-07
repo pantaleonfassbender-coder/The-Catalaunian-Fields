@@ -4,7 +4,7 @@
 const view = document.getElementById("view");
 const D = { mods: null, plates: null, timeline: null, compare: null, texts: {} };
 const SIDES = { rome: "Rome and Gaul", goths: "The Visigoths", huns: "The Huns", church: "Bishops and saints", reception: "Reception" };
-const LANGS = { la: "Latin", grc: "Greek", fr: "French" };
+const LANGS = { la: "Latin", grc: "Greek", fr: "French", de: "German" };
 
 const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
 const side = s => `<span class="side ${s}">${esc(SIDES[s] || s)}</span>`;
@@ -89,7 +89,7 @@ function card(m) {
 function texts() {
   view.innerHTML = `
     <span class="tag">Texts</span><h1>The corpus</h1>
-    <p class="lede">Stage 1 of the collection is in progress: ${["no", "one", "two", "three", "four", "five"][D.mods.shipped.length]} of five modules are carried, the others are planned. What is not carried, and why, is listed below.</p>
+    <p class="lede">${(D.mods.planned || []).length ? `Stage 1 of the collection is in progress: ${["no", "one", "two", "three", "four", "five"][D.mods.shipped.length]} of five modules are carried, the others are planned.` : "Stage 1 of the collection is complete: all five modules are carried."} What is not carried, and why, is listed below.</p>
     ${D.mods.shipped.length ? `<h2>Carried</h2><div class="grid g2">${D.mods.shipped.map(card).join("")}</div>` : ""}
     ${(D.mods.planned || []).length ? `<h2>Planned</h2><div class="grid g2">${D.mods.planned.map(plannedCard).join("")}</div>` : ""}
     <h2 id="missing">Not carried</h2><div class="grid g2">${(D.mods.missing || []).map(m => `
@@ -105,7 +105,8 @@ async function reader([id, secId, unitN]) {
   const sec = t.sections.find(s => s.id === secId) || t.sections[0];
   const bilingual = sec.units.some(u => u.orig);
   const lang = bilingual ? langPref : "en";
-  const origName = LANGS[t.orig_sprache] || "Original";
+  const origLang = sec.sprache || t.orig_sprache;
+  const origName = LANGS[origLang] || "Original";
   view.innerHTML = `
     <p class="fine"><a href="#/texts">← All texts</a></p>
     <span class="tag">${side(m.side)} ${esc(t.jahr)} · cited as ${esc(sec.zk)} [n]</span>
@@ -129,7 +130,7 @@ async function reader([id, secId, unitN]) {
           ${u.pg ? `<span class="pg" title="${esc(t.pg_label || "")} page.line">${esc(t.pg_label || "")} ${esc(u.pg)}</span>` : ""}</div>
         <div>${u.titel ? `<h4>${esc(u.titel)}</h4>` : ""}
           <div class="cols ${showO && showE ? "" : "one"}">
-            ${showO ? `<div class="origcol"><div class="orig" lang="${esc(t.orig_sprache)}"${t.rtl ? ' dir="rtl"' : ""}>${esc(u.orig)}</div>${u.tr ? `<div class="translit">${esc(u.tr)}</div>` : ""}</div>` : ""}
+            ${showO ? `<div class="origcol"><div class="orig" lang="${esc(origLang)}"${t.rtl ? ' dir="rtl"' : ""}>${esc(u.orig)}</div>${u.tr ? `<div class="translit">${esc(u.tr)}</div>` : ""}</div>` : ""}
             ${showE ? `<div class="text">${esc(u.en)}</div>` : ""}
           </div></div>
         ${u.note ? `<div class="note">${esc(u.note)}</div>` : ""}
