@@ -46,6 +46,12 @@ PLATES = [
     ("lupus", "H. Grobet - Saint Loup arrête Attila devant Troyes (451).jpg",
      "Saint Lupus stops Attila before Troyes", "church",
      "Colour lithograph by E. Crété after H. Grobet (1902). The Life of Lupus, which the editor Bruno Krusch judged a late invention, made the bishop of Troyes the man who faced Attila."),
+    ("genevieve", "Puvis de Chavannes - Sainte Geneviève veillant sur Paris.jpg",
+     "Genovefa keeps watch over Paris", "church",
+     "Pierre Puvis de Chavannes, Sainte Geneviève veillant sur Paris, a version of his last panel for the Panthéon (1898), Musée du Grand Siècle. The old Genovefa watches over the sleeping city by night; the Life of Genovefa itself has her keep the Parisians from fleeing in 451."),
+    ("meaux", "Meaux Vitrail 1869 4 Ste Geneviève et Attila.jpg",
+     "Genovefa before Attila", "church",
+     "Stained glass, cathedral of Meaux (1869): Genovefa kneels before a crowned Attila on horseback. The meeting is the window's: in the Life of Genovefa she never sees him, and her quarrel is with the citizens of Paris."),
 ]
 
 

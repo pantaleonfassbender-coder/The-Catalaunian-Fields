@@ -89,7 +89,7 @@ function card(m) {
 function texts() {
   view.innerHTML = `
     <span class="tag">Texts</span><h1>The corpus</h1>
-    <p class="lede">Stage 1 of the collection is in progress: two of five modules are carried, the others are planned. What is not carried, and why, is listed below.</p>
+    <p class="lede">Stage 1 of the collection is in progress: ${["no", "one", "two", "three", "four", "five"][D.mods.shipped.length]} of five modules are carried, the others are planned. What is not carried, and why, is listed below.</p>
     ${D.mods.shipped.length ? `<h2>Carried</h2><div class="grid g2">${D.mods.shipped.map(card).join("")}</div>` : ""}
     ${(D.mods.planned || []).length ? `<h2>Planned</h2><div class="grid g2">${D.mods.planned.map(plannedCard).join("")}</div>` : ""}
     <h2 id="missing">Not carried</h2><div class="grid g2">${(D.mods.missing || []).map(m => `

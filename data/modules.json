@@ -15,15 +15,17 @@
    "kurz": "The alliance, 451",
    "zk": "Alliance",
    "warum": "How a coalition of old enemies came together. The wars of the 430s, when Aetius' general Litorius led Hunnic horsemen against the Goths and was taken at Toulouse (Jordanes, and Sidonius' panegyric on Avitus); Valentinian's embassy to Theoderic and the answer 'you have made Attila our enemy too'; the list of allies in Jordanes, copied from Prosper; a continuation of Prosper on the Franks 'who had no kings'; Sidonius' catalogue of Attila's peoples and Aetius begging Avitus to bring the Goths; Aetius commending himself to Saint Peter; and Sangiban the Alan, suspected of treason and watched in the middle of the line."
+  },
+  {
+   "id": "cities",
+   "datei": "cities",
+   "side": "church",
+   "kurz": "The cities and their bishops, 451",
+   "zk": "Cities",
+   "warum": "What the war meant city by city, as the churches remembered it. Gregory of Tours on Aravatius, told in Rome that the Huns could not be stopped, and on Metz burned on Easter eve; Orléans told three ways: by Gregory (relieved before the walls fell), by the Life of Anianus (the Huns already inside and drawing lots for the citizens), and by Sidonius, who promised a history of the siege and never wrote it and called Aetius 'the liberator of the Loire'; Lupus of Troyes taken by Attila to the Rhine; Genovefa nearly stoned by the Parisians as a false prophet. And beside the Lives, their editor Bruno Krusch's verdicts of 1896: late, dependent, 'invented from beginning to end'."
   }
  ],
  "planned": [
-  {
-   "id": "cities",
-   "side": "church",
-   "kurz": "3. The cities and their bishops",
-   "warum": "Metz burned on Easter eve, Orléans saved at the last moment (Gregory of Tours), Anianus, Lupus of Troyes and Genovefa of Paris; and the editor Bruno Krusch's verdicts on the saints' lives, which belong on the page beside them."
-  },
   {
    "id": "battle",
    "side": "goths",

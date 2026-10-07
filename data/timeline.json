@@ -39,13 +39,26 @@
    "d": "451, Easter eve",
    "side": "church",
    "titel": "Metz burned",
-   "text": "Gregory of Tours: the Huns reach Metz on the eve of Easter and burn it; only the oratory of Saint Stephen is left standing."
+   "text": "Gregory of Tours, on hearsay: the Huns reach Metz on the eve of Easter and burn it; only the oratory of Saint Stephen is left standing. A bishop of Tongres had been told in Rome that the invasion was God's sentence.",
+   "cite": "#/text/cities/metz/3",
+   "citeLabel": "Metz [3]"
   },
   {
    "d": "451, summer",
    "side": "church",
    "titel": "Orléans saved",
-   "text": "Gregory of Tours: bishop Anianus prays on the walls and watches for help, and Aetius and Theoderic arrive as the city is about to fall. The date is not given."
+   "text": "Gregory: bishop Anianus prays on the walls, and Aetius and Theoderic arrive as they are about to fall. The Life of Anianus: the Huns are already inside. Sidonius: the city was broken into but not plundered. A later Life gives 24 June.",
+   "cite": "#/text/cities/orleans/1",
+   "citeLabel": "Orléans [1]"
+  },
+  {
+   "d": "451",
+   "side": "church",
+   "titel": "Troyes and Paris",
+   "text": "Two later Lives: Lupus of Troyes, whose city had no walls, is taken by Attila as far as the Rhine; Genovefa keeps the Parisians from fleeing and is nearly stoned as a false prophet. Their editor Krusch judged both Lives late.",
+   "cite": "#/text/cities/paris/1",
+   "citeLabel": "Paris [1]",
+   "plate": "meaux"
   },
   {
    "d": "451",
